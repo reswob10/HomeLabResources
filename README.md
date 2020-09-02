@@ -7,10 +7,6 @@ Building Virtual Machine… by Tony Robinson
 Learn everything there is to know about building and maintaining your own home or workplace virtual lab environment on the most popular hypervisors today!
 https://leanpub.com/avatar
 
-Many other resources for free/cheap software:
-https://github.com/aboutsecurity/blueteam_homelabs
-
-
 AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc. 
 https://github.com/AutomatedLab/AutomatedLab
 
@@ -24,6 +20,14 @@ https://youtu.be/jnotvkoUF9U
 SANS: Extending Your Home Lab to include Cloud
 https://youtu.be/j69DRB4WGeY
 
+Other resources for free/cheap software referenced in the SANS webcasts:
+https://github.com/aboutsecurity/blueteam_homelabs
+
+SANS: Building Your Own Super Duper Home Lab
+https://youtu.be/uzqwoufhwyk
+
+HAK5:  Building a Home Lab Virtual Server Quick and Dirty - Hak5 1819
+https://youtu.be/9SpQ1fRQAto
 
 Building an Effective Cybersecurity Learning Environment
 Tyrone E. Wilson

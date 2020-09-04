@@ -38,3 +38,6 @@ https://github.com/ubeeri/Invoke-UserSimulator
 
 Filtering DNS and HTTPS Traffic on pfSense
 https://docs.diladele.com/tutorials/filtering_https_traffic_squid_pfsense/index.html
+
+Splunk Attack range
+https://github.com/splunk/attack_range

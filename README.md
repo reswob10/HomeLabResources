@@ -7,12 +7,19 @@ Building Virtual Machine… by Tony Robinson
 Learn everything there is to know about building and maintaining your own home or workplace virtual lab environment on the most popular hypervisors today!
 https://leanpub.com/avatar
 
+Great run through of building a lab influenced by Tony above.  Lots of links and suggestions and lessons learned.
+https://www.netsecfocus.com/home/lab/2020/09/21/Tjnulls_guide_to_building_a_Home_Lab.html
+
 AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc. 
 https://github.com/AutomatedLab/AutomatedLab
 
 How to Build a Home Lab
 Black Hills Information Security webcast
 https://www.youtube.com/watch?v=_Ih_wjHafrM
+
+More good stuff from Black Hills instructions and information for building a lab environment.
+https://www.blackhillsinfosec.com/how-to-deploy-windows-optics-commands-downloads-instructions-and-screenshots/
+
 
 SANS: Building an Enterprise Grade Home Lab 
 https://youtu.be/jnotvkoUF9U

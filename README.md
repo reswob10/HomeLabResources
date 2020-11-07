@@ -50,8 +50,12 @@ Splunk Attack range
 https://github.com/splunk/attack_range
 
 Purple Cloud - An Infrastructure as Code (IaC) deployment of a small Active Directory pentest lab in the cloud. The deployment simulates a semi-realistic corporate enterprise Active Directory with a DC and endpoints. Purple team goals include blue team detection capabilities and R&D for detection engineering new approaches. 
+
 https://github.com/iknowjason/PurpleCloud
 
 BadBlood - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. 
+
 https://github.com/davidprowe/BadBlood
 
+A quick and dirty HTTP/S "organic" traffic generator. 
+https://github.com/philhagen/web-traffic-generator

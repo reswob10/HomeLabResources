@@ -58,4 +58,8 @@ BadBlood - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Direc
 https://github.com/davidprowe/BadBlood
 
 A quick and dirty HTTP/S "organic" traffic generator. 
+
 https://github.com/philhagen/web-traffic-generator
+
+The UK National Cyber Security Center has a great project for small/home offices to help them get started with logging.  This can be used for home labs as well. Not a full SIEM solution, but a start.
+https://github.com/ukncsc/lme

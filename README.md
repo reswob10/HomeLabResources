@@ -24,11 +24,9 @@ https://www.blackhillsinfosec.com/how-to-deploy-windows-optics-commands-download
 SANS: Building an Enterprise Grade Home Lab 
 https://youtu.be/jnotvkoUF9U
 
-SANS: Extending Your Home Lab to include Cloud
-https://youtu.be/j69DRB4WGeY
+SANS: Extending Your Home Lab to include Cloud   https://youtu.be/j69DRB4WGeY
 
-Other resources for free/cheap software referenced in the SANS webcasts:
-https://github.com/aboutsecurity/blueteam_homelabs
+Other resources for free/cheap software referenced in the SANS webcasts:   https://github.com/aboutsecurity/blueteam_homelabs
 
 SANS: Building Your Own Super Duper Home Lab
 https://youtu.be/uzqwoufhwyk
@@ -53,13 +51,17 @@ Purple Cloud - An Infrastructure as Code (IaC) deployment of a small Active Dire
 
 https://github.com/iknowjason/PurpleCloud
 
-BadBlood - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. 
-
+BadBlood - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects:  
 https://github.com/davidprowe/BadBlood
 
-A quick and dirty HTTP/S "organic" traffic generator. 
-
-https://github.com/philhagen/web-traffic-generator
+A quick and dirty HTTP/S "organic" traffic generator.    https://github.com/philhagen/web-traffic-generator
 
 The UK National Cyber Security Center has a great project for small/home offices to help them get started with logging.  This can be used for home labs as well. Not a full SIEM solution, but a start.
 https://github.com/ukncsc/lme
+
+
+Powershell script to create AD Domain Controller and Workstation     
+https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool
+
+Direct link to download free Microsoft Hypber-V server    
+https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019

@@ -65,3 +65,6 @@ https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool
 
 Direct link to download free Microsoft Hypber-V server    
 https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019
+
+Great instructions for building ELK and Wazuh home lab:  
+https://github.com/watsoninfosec/ELK-SIEM

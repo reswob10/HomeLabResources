@@ -73,7 +73,7 @@ Justin Henderson, the authoer of SANS SEC555, SEC530 and other courses is doing 
 https://youtube.com/playlist?list=PLIQlcXRut9IPF8cJSSf0-BsoFy_1SOGYQ
 
 Another great blog with lots of details and links
-https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/?utm_content=157693804&utm_medium=social&utm_source=twitter&hss_channel=tw-134994790
+https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/
 
 A video from Black Hat Trainings in 2020
 https://www.youtube.com/watch?v=X3TyFji-jEw

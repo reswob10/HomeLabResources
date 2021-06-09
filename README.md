@@ -85,4 +85,6 @@ https://youtu.be/mIXf2k9BQ3k  pt 2
 Building ELK SIEM in blog format
 https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/
 
+Cyberrange options to deploy in Azure
+https://levelup.gitconnected.com/building-azure-cyber-ranges-for-learning-and-fun-9df1debb2eae?gi=e662f36c25fb
 

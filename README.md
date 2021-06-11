@@ -95,3 +95,9 @@ Join this talk with SANS Certified Instructor and course author Justin Henderson
 https://youtu.be/EtlI04dJWX4
 
 
+More free/demo software:
+
+data router/parser/mover  Cribl:  https://cribl.io/download/
+Rapid7 InsightIDR Free Trial (SIEM): https://www.rapid7.com/try/insightidr/
+
+

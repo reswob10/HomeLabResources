@@ -88,3 +88,10 @@ https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/
 Cyberrange options to deploy in Azure
 https://levelup.gitconnected.com/building-azure-cyber-ranges-for-learning-and-fun-9df1debb2eae?gi=e662f36c25fb
 
+Series of videos for building a home lab by Day Cyberwox:
+https://youtube.com/playlist?list=PLDqMNdDvMsRkmtiKcZwbhOz7MeLQE0r3G
+
+Join this talk with SANS Certified Instructor and course author Justin Henderson, as he shares what the steps are in building out a detection oriented blue team lab.
+https://youtu.be/EtlI04dJWX4
+
+

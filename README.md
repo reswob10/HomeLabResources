@@ -94,6 +94,16 @@ https://youtube.com/playlist?list=PLDqMNdDvMsRkmtiKcZwbhOz7MeLQE0r3G
 Join this talk with SANS Certified Instructor and course author Justin Henderson, as he shares what the steps are in building out a detection oriented blue team lab.
 https://youtu.be/EtlI04dJWX4
 
+Great setup script for Windows PCs from https://twitter.com/ajpc500
+
+Wrote a quick and dirty PowerShell script to install Sysmon (SwiftOnSecurity config), SilkService and Winlogbeat, and forward the logs on to HELK. Might be useful for those looking to quickly configure endpoint logs in a lab environment
+
+https://gist.github.com/ajpc500/3a86ba1741d4868b69be5ce3a142d527
+
+From https://twitter.com/HBRH_314:
+In this first video of Malware Analysis Fundamentals, we create our analysis environment for safe inspection of malware utilizing Remnux and FLARE VM.
+https://youtu.be/whApbC5OvOs
+
 
 More free/demo software:
 

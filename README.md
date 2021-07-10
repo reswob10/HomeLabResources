@@ -111,4 +111,5 @@ data router/parser/mover  Cribl:  https://cribl.io/download/
 
 Rapid7 InsightIDR Free Trial (SIEM): https://www.rapid7.com/try/insightidr/
 
-
+Podcast/Videos on various topics for building stuff for your lab:
+https://thehomelab.show/

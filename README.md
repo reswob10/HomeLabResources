@@ -34,9 +34,11 @@ https://youtu.be/uzqwoufhwyk
 HAK5:  Building a Home Lab Virtual Server Quick and Dirty - Hak5 1819
 https://youtu.be/9SpQ1fRQAto
 
-Building an Effective Cybersecurity Learning Environment
 Tyrone E. Wilson
+Building an Effective Cybersecurity Learning Environment
 https://www.youtube.com/watch?v=ZYAgyZ7RZm8
+Hands-On Learning: How and Why You Should Build a Home Lab
+https://www.youtube.com/watch?v=CL2Ng191KQE
 
 Generate fake user activity
 https://github.com/ubeeri/Invoke-UserSimulator
@@ -103,6 +105,9 @@ https://gist.github.com/ajpc500/3a86ba1741d4868b69be5ce3a142d527
 From https://twitter.com/HBRH_314:
 In this first video of Malware Analysis Fundamentals, we create our analysis environment for safe inspection of malware utilizing Remnux and FLARE VM.
 https://youtu.be/whApbC5OvOs
+
+AWS Pen-Testing Laboratory - Pentesting Lab With A Kali Linux Instance Accessible Via Ssh And Wireguard VPN And With Vulnerable Instances In A Private Subnet 
+https://www.kitploit.com/2021/06/aws-pen-testing-laboratory-pentesting.html
 
 
 More free/demo software:

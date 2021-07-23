@@ -109,6 +109,12 @@ https://youtu.be/whApbC5OvOs
 AWS Pen-Testing Laboratory - Pentesting Lab With A Kali Linux Instance Accessible Via Ssh And Wireguard VPN And With Vulnerable Instances In A Private Subnet 
 https://www.kitploit.com/2021/06/aws-pen-testing-laboratory-pentesting.html
 
+Podcast/Videos on various topics for building stuff for your lab:
+https://thehomelab.show/
+
+And of course there is at least one homelab reddit
+https://www.reddit.com/r/homelab/
+
 
 More free/demo software:
 
@@ -116,5 +122,3 @@ data router/parser/mover  Cribl:  https://cribl.io/download/
 
 Rapid7 InsightIDR Free Trial (SIEM): https://www.rapid7.com/try/insightidr/
 
-Podcast/Videos on various topics for building stuff for your lab:
-https://thehomelab.show/

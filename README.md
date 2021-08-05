@@ -71,8 +71,11 @@ https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019
 Great instructions for building ELK and Wazuh home lab:  
 https://github.com/watsoninfosec/ELK-SIEM
 
-Justin Henderson, the authoer of SANS SEC555, SEC530 and other courses is doing a series on building a home lab.
+Justin Henderson, the author of SANS SEC555, SEC530 and other courses is doing a series on building a home lab.
 https://youtube.com/playlist?list=PLIQlcXRut9IPF8cJSSf0-BsoFy_1SOGYQ
+
+A guide on building a DIY SIEM at home by James Smith @DFIRmadness
+https://dfirmadness.com/building-a-siem-at-home/
 
 Another great blog with lots of details and links
 https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/

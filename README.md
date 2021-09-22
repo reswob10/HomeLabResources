@@ -40,9 +40,6 @@ https://www.youtube.com/watch?v=ZYAgyZ7RZm8
 Hands-On Learning: How and Why You Should Build a Home Lab
 https://www.youtube.com/watch?v=CL2Ng191KQE
 
-Generate fake user activity
-https://github.com/ubeeri/Invoke-UserSimulator
-
 Filtering DNS and HTTPS Traffic on pfSense
 https://docs.diladele.com/tutorials/filtering_https_traffic_squid_pfsense/index.html
 
@@ -56,7 +53,6 @@ https://github.com/iknowjason/PurpleCloud
 BadBlood - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects:  
 https://github.com/davidprowe/BadBlood
 
-A quick and dirty HTTP/S "organic" traffic generator.    https://github.com/philhagen/web-traffic-generator
 
 The UK National Cyber Security Center has a great project for small/home offices to help them get started with logging.  This can be used for home labs as well. Not a full SIEM solution, but a start.
 https://github.com/ukncsc/lme
@@ -125,3 +121,22 @@ data router/parser/mover  Cribl:  https://cribl.io/download/
 
 Rapid7 InsightIDR Free Trial (SIEM): https://www.rapid7.com/try/insightidr/
 
+A Guide to log formats:
+https://www.graylog.org/post/log-formats-a-complete-guide
+
+Generating data for you lab
+
+Generate suspicious activity
+https://www.activecountermeasures.com/threat-simulation-overview-and-setup/
+
+Generate fake user activity
+https://github.com/ubeeri/Invoke-UserSimulator
+
+A quick and dirty HTTP/S "organic" traffic generator.    https://github.com/philhagen/web-traffic-generator
+
+Some other ways to generate data to be collected by your SIEM
+
+https://pypi.org/project/log-generator/
+https://logs.to/
+https://nxlog.co/documentation/nxlog-user-guide/generating-test-data.html
+https://github.com/tdunning/log-synth

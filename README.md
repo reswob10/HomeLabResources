@@ -137,6 +137,9 @@ A quick and dirty HTTP/S "organic" traffic generator.    https://github.com/phil
 Some other ways to generate data to be collected by your SIEM
 
 https://pypi.org/project/log-generator/
+
 https://logs.to/
+
 https://nxlog.co/documentation/nxlog-user-guide/generating-test-data.html
+
 https://github.com/tdunning/log-synth

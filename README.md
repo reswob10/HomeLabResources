@@ -115,6 +115,12 @@ And of course there is at least one homelab reddit
 https://www.reddit.com/r/homelab/
 
 
+Some great resources from Jeff McJunkin
+
+https://bit.ly/kickasslab
+https://www.youtube.com/watch?v=KogdkuEbfwc
+
+
 More free/demo software:
 
 data router/parser/mover  Cribl:  https://cribl.io/download/

@@ -114,6 +114,9 @@ https://thehomelab.show/
 And of course there is at least one homelab reddit
 https://www.reddit.com/r/homelab/
 
+Video from https://twitter.com/watsoninfosec on his home lab build:
+https://youtu.be/-1kwszraub0
+
 
 Some great resources from Jeff McJunkin
 

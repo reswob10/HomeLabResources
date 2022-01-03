@@ -75,6 +75,9 @@ https://dfirmadness.com/building-a-siem-at-home/
 
 Another great blog with lots of details and links
 https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/
+https://youtu.be/X3TyFji-jEw
+https://youtu.be/Ed1ujM3xWNg
+
 
 A video from Black Hat Trainings in 2020
 https://www.youtube.com/watch?v=X3TyFji-jEw

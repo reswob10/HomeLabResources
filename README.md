@@ -110,6 +110,7 @@ https://www.kitploit.com/2021/06/aws-pen-testing-laboratory-pentesting.html
 
 Podcast/Videos on various topics for building stuff for your lab:
 https://thehomelab.show/
+Videos: https://youtube.com/playlist?list=PLjGQNuuUzvmtAzqgH7PVvnF_v0X9ZKMeA
 
 And of course there is at least one homelab reddit
 https://www.reddit.com/r/homelab/

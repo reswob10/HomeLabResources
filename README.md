@@ -124,6 +124,8 @@ https://youtu.be/-1kwszraub0
 Need to build an entire lab in Azure?  Cyb3rWard0g has scripts in github for multiple configurations:
 https://github.com/OTRF/Microsoft-Sentinel2Go
 
+MS Defender Evaluation lab here:  https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-expanded-os-support-amp-atomic-red-team/ba-p/2993927
+Includes Red Canary's atomic red team
 
 Some great resources from Jeff McJunkin
 

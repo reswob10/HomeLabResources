@@ -127,6 +127,11 @@ https://github.com/OTRF/Microsoft-Sentinel2Go
 MS Defender Evaluation lab here:  https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-expanded-os-support-amp-atomic-red-team/ba-p/2993927
 Includes Red Canary's atomic red team
 
+Whole thread on labs.  Including networking, not just security
+https://twitter.com/JBizzle703/status/1433953668148219906?s=20
+https://threadreaderapp.com/thread/1433953668148219906.html
+
+
 Some great resources from Jeff McJunkin
 
 https://bit.ly/kickasslab

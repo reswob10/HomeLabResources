@@ -112,6 +112,9 @@ Podcast/Videos on various topics for building stuff for your lab:
 https://thehomelab.show/
 Videos: https://youtube.com/playlist?list=PLjGQNuuUzvmtAzqgH7PVvnF_v0X9ZKMeA
 
+Justin Henderson from SANS SEC555 has a couple free labs:  https://t.co/pLipGouXDj
+User: student Pass: sec555
+
 And of course there is at least one homelab reddit
 https://www.reddit.com/r/homelab/
 
@@ -159,3 +162,7 @@ https://logs.to/
 https://nxlog.co/documentation/nxlog-user-guide/generating-test-data.html
 
 https://github.com/tdunning/log-synth
+
+
+Attack Simulation tool:  Automating Red Canary's atomic-red team   https://www.atomic-operator.com/.6.0/
+

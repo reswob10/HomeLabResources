@@ -118,6 +118,9 @@ https://www.reddit.com/r/homelab/
 Video from https://twitter.com/watsoninfosec on his home lab build:
 https://youtu.be/-1kwszraub0
 
+Need to build an entire lab in Azure?  Cyb3rWard0g has scripts in github for multiple configurations:
+https://github.com/OTRF/Microsoft-Sentinel2Go
+
 
 Some great resources from Jeff McJunkin
 
@@ -136,6 +139,9 @@ https://www.graylog.org/post/log-formats-a-complete-guide
 
 Generating data for you lab
 
+Cyb3rWard0g and Cyb3rPandaH have a great site with malicious data sets:
+    https://securitydatasets.com/introduction.html
+    
 Generate suspicious activity
 https://www.activecountermeasures.com/threat-simulation-overview-and-setup/
 

@@ -140,7 +140,7 @@ https://bit.ly/kickasslab
 https://www.youtube.com/watch?v=KogdkuEbfwc
 
 
-More free/demo software:
+## Free/demo software:
 
 data router/parser/mover  Cribl:  https://cribl.io/download/
 
@@ -149,7 +149,9 @@ Rapid7 InsightIDR Free Trial (SIEM): https://www.rapid7.com/try/insightidr/
 A Guide to log formats:
 https://www.graylog.org/post/log-formats-a-complete-guide
 
-Generating data for you lab
+## Generating data for you lab
+
+https://gist.github.com/braimee/edf91f87ee95b48c803895614a0ec57a
 
 Cyb3rWard0g and Cyb3rPandaH have a great site with malicious data sets:
     https://securitydatasets.com/introduction.html

@@ -37,7 +37,10 @@ Justin Henderson, the author of SANS SEC555, SEC530 and other courses is doing a
 A guide on building a DIY SIEM at home by James Smith @DFIRmadness
 https://dfirmadness.com/building-a-siem-at-home/
 
-
+Another set of blogs for building a home lab.  This one is from Red Siege and will be more offensive focused:
+part 1:  https://redsiege.com/blog/2022/06/simpledomainp1/
+part 2:  https://redsiege.com/blog/2022/06/simpledomainp2/
+If I'm slow putting up 3 and 4 which will probably come out in July 2022, just modify the above urls or google
 
 ## Automated lab creation tools
 
@@ -163,6 +166,9 @@ Generate fake user activity
 https://github.com/ubeeri/Invoke-UserSimulator
 
 A quick and dirty HTTP/S "organic" traffic generator.    https://github.com/philhagen/web-traffic-generator
+
+This looks like a great way to generate a lot of different types of data:
+https://github.com/swimlane/soc-faker
 
 Some other ways to generate data to be collected by your SIEM
 

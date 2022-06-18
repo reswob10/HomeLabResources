@@ -3,9 +3,9 @@ List of resources for buiding a home lab
 
 ## Blogs and Videos that walk through setting up labs
 Pay what you want book
-Building Virtual Machine… by Tony Robinson 
+Building Virtual Machine SECOND EDITION! by Tony Robinson 
 Learn everything there is to know about building and maintaining your own home or workplace virtual lab environment on the most popular hypervisors today!
-https://leanpub.com/avatar
+https://leanpub.com/avatar2
 
 Great run through of building a lab influenced by Tony above.  Lots of links and suggestions and lessons learned.
 https://www.netsecfocus.com/home/lab/2020/09/21/Tjnulls_guide_to_building_a_Home_Lab.html

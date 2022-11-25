@@ -115,6 +115,8 @@ Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offe
 
 Florian Roth's [@cyb3rops](https://twitter.com/cyb3rops) company released a [ransomware emulator](https://github.com/NextronSystems/ransomware-simulator]
 
+Black Hills has [tools](https://www.activecountermeasures.com/threat-simulation-overview-and-setup/) to generate suspicious activity
+
 ## Free/demo software:
 
 [Cribl](https://cribl.io/download/) is an awesome data router/parser/mover/enhancer   
@@ -135,8 +137,6 @@ Sumo Logic  Free account for 1 GB/day
 
 Cyb3rWard0g and Cyb3rPandaH have a great site with [malicious data sets](https://securitydatasets.com/introduction.html)
     
-Black Hills has [tools](https://www.activecountermeasures.com/threat-simulation-overview-and-setup/) to generate suspicious activity
-
 A github repository by @ubeeri to [generate fake user activity](https://github.com/ubeeri/Invoke-UserSimulator)
 
 A quick and dirty HTTP/S "organic" [traffic generator](https://github.com/philhagen/web-traffic-generator)

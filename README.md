@@ -60,14 +60,27 @@ Cyb3rWard0g has [Microsoft-Sentinel2Go](https://github.com/OTRF/Microsoft-Sentin
 
 The [UK National Cyber Security Center](https://github.com/ukncsc/lme) has a great project for small/home offices to help them get started with logging.  This can be used for home labs as well. Not a full SIEM solution, but a start.
 
+Offensive Security has a [great blog](https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/)  with lots of details and links with a couple of videos [here](https://youtu.be/X3TyFji-jEw) and [here](https://youtu.be/Ed1ujM3xWNg)
+
+Building ELK SIEM in in two videos, [part 1](https://youtu.be/HI072Rkthoc) and [part 2](https://youtu.be/mIXf2k9BQ3k)
+
+Building ELK SIEM in [blog format](https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/)
+
+Cyberrange options to deploy in Azure: https://levelup.gitconnected.com/building-azure-cyber-ranges-for-learning-and-fun-9df1debb2eae?gi=e662f36c25fb
+
+Series of videos for [building a home lab](https://youtube.com/playlist?list=PLDqMNdDvMsRkmtiKcZwbhOz7MeLQE0r3G) by @DayCyberwox:
+
+[Watch this talk](https://youtu.be/EtlI04dJWX4) with SANS Certified Instructor and course author Justin Henderson, as he shares what the steps are in building out a detection oriented blue team lab.
+
+Great setup script for Windows PCs from https://twitter.com/ajpc500
+
+## Tools and configurations to build your home lab
 
 Filtering DNS and HTTPS Traffic on pfSense
 https://docs.diladele.com/tutorials/filtering_https_traffic_squid_pfsense/index.html
 
-
 BadBlood - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects:  
 https://github.com/davidprowe/BadBlood
-
 
 Powershell script to create AD Domain Controller and Workstation     
 https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool
@@ -75,28 +88,21 @@ https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool
 
 
 
-Offensive Security has a [great blog](https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/)  with lots of details and links with a couple of videos [here](https://youtu.be/X3TyFji-jEw) and [here](https://youtu.be/Ed1ujM3xWNg)
+
 
 Here is a [video]( from Black Hat Trainings in 2020
 https://www.youtube.com/watch?v=X3TyFji-jEw
 
-Building ELK SIEM in in two videos, [part 1](https://youtu.be/HI072Rkthoc) and [part 2](https://youtu.be/mIXf2k9BQ3k)
-  pt 1
-  pt 2
 
-Building ELK SIEM in blog format
-https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/
 
-Cyberrange options to deploy in Azure
-https://levelup.gitconnected.com/building-azure-cyber-ranges-for-learning-and-fun-9df1debb2eae?gi=e662f36c25fb
 
-Series of videos for building a home lab by Day Cyberwox @DayCyberwox:
-https://youtube.com/playlist?list=PLDqMNdDvMsRkmtiKcZwbhOz7MeLQE0r3G
 
-Join this talk with SANS Certified Instructor and course author Justin Henderson, as he shares what the steps are in building out a detection oriented blue team lab.
-https://youtu.be/EtlI04dJWX4
 
-Great setup script for Windows PCs from https://twitter.com/ajpc500
+
+
+
+
+
 
 Wrote a quick and dirty PowerShell script to install Sysmon (SwiftOnSecurity config), SilkService and Winlogbeat, and forward the logs on to HELK. Might be useful for those looking to quickly configure endpoint logs in a lab environment
 

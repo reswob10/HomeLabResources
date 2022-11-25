@@ -72,7 +72,7 @@ Series of videos for [building a home lab](https://youtube.com/playlist?list=PLD
 
 [Watch this talk](https://youtu.be/EtlI04dJWX4) with SANS Certified Instructor and course author Justin Henderson, as he shares what the steps are in building out a detection oriented blue team lab.
 
-Great setup script for Windows PCs from https://twitter.com/ajpc500
+Here is a [video](https://www.youtube.com/watch?v=X3TyFji-jEw) from Black Hat Trainings in 2020
 
 ## Tools and configurations to build your home lab
 
@@ -85,13 +85,7 @@ https://github.com/davidprowe/BadBlood
 Powershell script to create AD Domain Controller and Workstation     
 https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool
 
-
-
-
-
-
-Here is a [video]( from Black Hat Trainings in 2020
-https://www.youtube.com/watch?v=X3TyFji-jEw
+From [@ajpc500](https://twitter.com/ajpc500), a quick and dirty [PowerShell script](https://gist.github.com/ajpc500/3a86ba1741d4868b69be5ce3a142d527) to install Sysmon (SwiftOnSecurity config), SilkService and Winlogbeat, and forward the logs on to HELK. Might be useful for those looking to quickly configure endpoint logs in a lab environment
 
 
 
@@ -104,9 +98,12 @@ https://www.youtube.com/watch?v=X3TyFji-jEw
 
 
 
-Wrote a quick and dirty PowerShell script to install Sysmon (SwiftOnSecurity config), SilkService and Winlogbeat, and forward the logs on to HELK. Might be useful for those looking to quickly configure endpoint logs in a lab environment
 
-https://gist.github.com/ajpc500/3a86ba1741d4868b69be5ce3a142d527
+
+
+
+
+
 
 From https://twitter.com/HBRH_314:
 In this first video of Malware Analysis Fundamentals, we create our analysis environment for safe inspection of malware utilizing Remnux and FLARE VM.

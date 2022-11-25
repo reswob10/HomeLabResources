@@ -60,7 +60,7 @@ Cyb3rWard0g has [Microsoft-Sentinel2Go](https://github.com/OTRF/Microsoft-Sentin
 
 The [UK National Cyber Security Center](https://github.com/ukncsc/lme) has a great project for small/home offices to help them get started with logging.  This can be used for home labs as well. Not a full SIEM solution, but a start.
 
-Offensive Security has a [great blog](https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/)  with lots of details and links with a couple of videos [here](https://youtu.be/X3TyFji-jEw) and [here](https://youtu.be/Ed1ujM3xWNg)
+Offensive Security has a [great blog](https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/)  with lots of details and links with a video [here](https://youtu.be/Ed1ujM3xWNg)
 
 Building ELK SIEM in in two videos, [part 1](https://youtu.be/HI072Rkthoc) and [part 2](https://youtu.be/mIXf2k9BQ3k)
 
@@ -72,7 +72,13 @@ Series of videos for [building a home lab](https://youtube.com/playlist?list=PLD
 
 [Watch this talk](https://youtu.be/EtlI04dJWX4) with SANS Certified Instructor and course author Justin Henderson, as he shares what the steps are in building out a detection oriented blue team lab.
 
+[AWS Pen-Testing Laboratory](https://www.kitploit.com/2021/06/aws-pen-testing-laboratory-pentesting.html) - Pentesting Lab With A Kali Linux Instance Accessible Via Ssh And Wireguard VPN And With Vulnerable Instances In A Private Subnet 
+
 Here is a [video](https://www.youtube.com/watch?v=X3TyFji-jEw) from Black Hat Trainings in 2020
+
+From [@HBRH_314](https://twitter.com/HBRH_314), a [video of Malware Analysis](https://youtu.be/whApbC5OvOs) Fundamentals to create an analysis environment for safe inspection of malware utilizing Remnux and FLARE VM.
+
+Video from [@watsoninfosec](https://twitter.com/watsoninfosec) on his [home lab build](https://youtu.be/-1kwszraub0)
 
 ## Tools and configurations to build your home lab
 
@@ -88,89 +94,39 @@ https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool
 From [@ajpc500](https://twitter.com/ajpc500), a quick and dirty [PowerShell script](https://gist.github.com/ajpc500/3a86ba1741d4868b69be5ce3a142d527) to install Sysmon (SwiftOnSecurity config), SilkService and Winlogbeat, and forward the logs on to HELK. Might be useful for those looking to quickly configure endpoint logs in a lab environment
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-From https://twitter.com/HBRH_314:
-In this first video of Malware Analysis Fundamentals, we create our analysis environment for safe inspection of malware utilizing Remnux and FLARE VM.
-https://youtu.be/whApbC5OvOs
-
-AWS Pen-Testing Laboratory - Pentesting Lab With A Kali Linux Instance Accessible Via Ssh And Wireguard VPN And With Vulnerable Instances In A Private Subnet 
-https://www.kitploit.com/2021/06/aws-pen-testing-laboratory-pentesting.html
-
-Podcast/Videos on various topics for building stuff for your lab:
-https://thehomelab.show/
-Videos: https://youtube.com/playlist?list=PLjGQNuuUzvmtAzqgH7PVvnF_v0X9ZKMeA
-
-Justin Henderson from SANS SEC555 has a couple free labs:  https://t.co/pLipGouXDj
-User: student Pass: sec555
-
-And of course there is at least one homelab reddit
-https://www.reddit.com/r/homelab/
-
-Video from https://twitter.com/watsoninfosec on his home lab build:
-https://youtu.be/-1kwszraub0
-
-
-
-Whole thread on labs.  Including networking, not just security
-https://twitter.com/JBizzle703/status/1433953668148219906?s=20
-https://threadreaderapp.com/thread/1433953668148219906.html
-
-
-Some great resources from Jeff McJunkin
-
-https://bit.ly/kickasslab
-https://www.youtube.com/watch?v=KogdkuEbfwc
-
-
 ## Free/demo software:
 
-data router/parser/mover  Cribl:  https://cribl.io/download/
+[Cribl](https://cribl.io/download/) is an awesome data router/parser/mover/enhancer   
 
-Rapid7 InsightIDR Free Trial (SIEM): https://www.rapid7.com/try/insightidr/
-
-A Guide to log formats:
-https://www.graylog.org/post/log-formats-a-complete-guide
+Rapid7 [InsightIDR](https://www.rapid7.com/try/insightidr/) Free Trial (SIEM)
 
 Other resources for free/cheap software referenced in the SANS webcasts:   https://github.com/aboutsecurity/blueteam_homelabs
 
-Direct link to download free Microsoft Hypber-V server    
-https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019
+Direct link to download free [Microsoft Hypber-V](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019) server    
+
+## Attacker Simulation / Emulation
+
+Atomic Red Team
+
+[Homepage](https://redcanary.com/atomic-red-team/)
+[Explore Atomic Red Team](https://atomicredteam.io/)
+[Automating Red Canary's atomic-red team](https://www.atomic-operator.com/.6.0/)
 
 ## Generating data for you lab
 
 https://gist.github.com/braimee/edf91f87ee95b48c803895614a0ec57a
 
-Cyb3rWard0g and Cyb3rPandaH have a great site with malicious data sets:
-    https://securitydatasets.com/introduction.html
+Cyb3rWard0g and Cyb3rPandaH have a great site with [malicious data sets](https://securitydatasets.com/introduction.html)
     
-Generate suspicious activity
-https://www.activecountermeasures.com/threat-simulation-overview-and-setup/
+Black Hills has [tools](https://www.activecountermeasures.com/threat-simulation-overview-and-setup/) to generate suspicious activity
 
-Generate fake user activity
-https://github.com/ubeeri/Invoke-UserSimulator
+A github repository by @ubeeri to [generate fake user activity](https://github.com/ubeeri/Invoke-UserSimulator)
 
-A quick and dirty HTTP/S "organic" traffic generator.    https://github.com/philhagen/web-traffic-generator
+A quick and dirty HTTP/S "organic" [traffic generator](https://github.com/philhagen/web-traffic-generator)
 
-This looks like a great way to generate a lot of different types of data:
-https://github.com/swimlane/soc-faker
+Swimlane has open sourced a [tool](https://github.com/swimlane/soc-faker) to generate a lot of different types of data:
 
-Some other ways to generate data to be collected by your SIEM
+Here are some other ways to generate data to be collected by your SIEM
 
 https://pypi.org/project/log-generator/
 
@@ -180,9 +136,27 @@ https://nxlog.co/documentation/nxlog-user-guide/generating-test-data.html
 
 https://github.com/tdunning/log-synth
 
-
-Attack Simulation tool:  Automating Red Canary's atomic-red team   https://www.atomic-operator.com/.6.0/
-
 Create network traffic to stress test network devices:  https://www.candelatech.com/downloads.php
 
-Attacking AD cheat sheet:  https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
+
+## Other resources
+
+Podcast/Videos on various topics for building stuff for your lab:
+[Homepage](https://thehomelab.show/) and [Videos](https://youtube.com/playlist?list=PLjGQNuuUzvmtAzqgH7PVvnF_v0X9ZKMeA)
+
+Justin Henderson from SANS SEC555 has a couple [free labs](https://t.co/pLipGouXDj)
+
+User: student Password: sec555
+
+And of course there is at least one [homelab reddit](https://www.reddit.com/r/homelab/)
+
+Here is a whole thread on labs.  Including networking, not just security
+[Original](https://twitter.com/JBizzle703/status/1433953668148219906?s=20)
+[Threadripped](https://threadreaderapp.com/thread/1433953668148219906.html)
+
+Some great resources from Jeff McJunkin
+[kickasslab](https://bit.ly/kickasslab) and [video](https://www.youtube.com/watch?v=KogdkuEbfwc)
+
+A Guide to log formats from [Greylog](https://www.graylog.org/post/log-formats-a-complete-guide)
+
+Attacking AD [cheat sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)

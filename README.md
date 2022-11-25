@@ -38,8 +38,9 @@ A guide on building a DIY SIEM at home by James Smith @DFIRmadness
 https://dfirmadness.com/building-a-siem-at-home/
 
 Another set of blogs for building a home lab.  This one is from Red Siege and will be more offensive focused:
-part 1:  https://redsiege.com/blog/2022/06/simpledomainp1/
-part 2:  https://redsiege.com/blog/2022/06/simpledomainp2/
+- Part 1:  https://redsiege.com/blog/2022/06/simpledomainp1/
+- Part 2:  https://redsiege.com/blog/2022/06/simpledomainp2/
+
 If I'm slow putting up 3 and 4 which will probably come out in July 2022, just modify the above urls or google
 
 From [@secopsgeek](https://twitter.com/Secopsgeek), how to [ElasticXDR 8.2.0](https://youtu.be/NLdPE4erV5c) Gitbook Build Overview

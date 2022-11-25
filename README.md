@@ -52,9 +52,14 @@ is a provisioning solution and framework that lets you deploy complex labs on Hy
 
 [Purple Cloud](https://github.com/iknowjason/PurpleCloud) - An Infrastructure as Code (IaC) deployment of a small Active Directory pentest lab in the cloud. The deployment simulates a semi-realistic corporate enterprise Active Directory with a DC and endpoints. Purple team goals include blue team detection capabilities and R&D for detection engineering new approaches. 
 
+Cyb3rWard0g has [Microsoft-Sentinel2Go](https://github.com/OTRF/Microsoft-Sentinel2Go) which contains scripts in github for multiple configurations to build an entire lab in Azure
 
+[MS Defender Evaluation lab](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-expanded-os-support-amp-atomic-red-team/ba-p/2993927) which includes Red Canary's atomic red team.
 
-Other resources for free/cheap software referenced in the SANS webcasts:   https://github.com/aboutsecurity/blueteam_homelabs
+## How to's and Building Home Lab references
+
+The [UK National Cyber Security Center](https://github.com/ukncsc/lme) has a great project for small/home offices to help them get started with logging.  This can be used for home labs as well. Not a full SIEM solution, but a start.
+
 
 Filtering DNS and HTTPS Traffic on pfSense
 https://docs.diladele.com/tutorials/filtering_https_traffic_squid_pfsense/index.html
@@ -64,29 +69,20 @@ BadBlood - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Direc
 https://github.com/davidprowe/BadBlood
 
 
-The UK National Cyber Security Center has a great project for small/home offices to help them get started with logging.  This can be used for home labs as well. Not a full SIEM solution, but a start.
-https://github.com/ukncsc/lme
-
-
 Powershell script to create AD Domain Controller and Workstation     
 https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool
 
-Direct link to download free Microsoft Hypber-V server    
-https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019
 
 
-Another great blog with lots of details and links
-https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/
-https://youtu.be/X3TyFji-jEw
-https://youtu.be/Ed1ujM3xWNg
 
+Offensive Security has a [great blog](https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/)  with lots of details and links with a couple of videos [here](https://youtu.be/X3TyFji-jEw) and [here](https://youtu.be/Ed1ujM3xWNg)
 
-A video from Black Hat Trainings in 2020
+Here is a [video]( from Black Hat Trainings in 2020
 https://www.youtube.com/watch?v=X3TyFji-jEw
 
-Building ELK SIEM 
-https://youtu.be/HI072Rkthoc  pt 1
-https://youtu.be/mIXf2k9BQ3k  pt 2
+Building ELK SIEM in in two videos, [part 1](https://youtu.be/HI072Rkthoc) and [part 2](https://youtu.be/mIXf2k9BQ3k)
+  pt 1
+  pt 2
 
 Building ELK SIEM in blog format
 https://www.hackingarticles.in/threat-hunting-log-monitoring-lab-setup-with-elk/
@@ -126,11 +122,7 @@ https://www.reddit.com/r/homelab/
 Video from https://twitter.com/watsoninfosec on his home lab build:
 https://youtu.be/-1kwszraub0
 
-Need to build an entire lab in Azure?  Cyb3rWard0g has scripts in github for multiple configurations:
-https://github.com/OTRF/Microsoft-Sentinel2Go
 
-MS Defender Evaluation lab here:  https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-expanded-os-support-amp-atomic-red-team/ba-p/2993927
-Includes Red Canary's atomic red team
 
 Whole thread on labs.  Including networking, not just security
 https://twitter.com/JBizzle703/status/1433953668148219906?s=20
@@ -151,6 +143,11 @@ Rapid7 InsightIDR Free Trial (SIEM): https://www.rapid7.com/try/insightidr/
 
 A Guide to log formats:
 https://www.graylog.org/post/log-formats-a-complete-guide
+
+Other resources for free/cheap software referenced in the SANS webcasts:   https://github.com/aboutsecurity/blueteam_homelabs
+
+Direct link to download free Microsoft Hypber-V server    
+https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019
 
 ## Generating data for you lab
 

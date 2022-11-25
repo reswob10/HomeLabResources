@@ -108,9 +108,9 @@ Direct link to download free [Microsoft Hypber-V](https://www.microsoft.com/en-u
 
 Atomic Red Team
 
-[Homepage](https://redcanary.com/atomic-red-team/)
-[Explore Atomic Red Team](https://atomicredteam.io/)
-[Automating Red Canary's atomic-red team](https://www.atomic-operator.com/.6.0/)
+- [Homepage](https://redcanary.com/atomic-red-team/)
+- [Explore Atomic Red Team](https://atomicredteam.io/)
+- [Automating Red Canary's atomic-red team](https://www.atomic-operator.com/.6.0/)
 
 ## Generating data for you lab
 

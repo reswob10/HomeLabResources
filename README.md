@@ -13,7 +13,7 @@ https://www.netsecfocus.com/home/lab/2020/09/21/Tjnulls_guide_to_building_a_Home
 [How to Build a Home Lab](https://www.youtube.com/watch?v=_Ih_wjHafrM)
 Black Hills Information Security webcast
 
-[Blog from Black Hills instructions and information for building a lab environment](https://www.blackhillsinfosec.com/how-to-deploy-windows-optics-commands-downloads-instructions-and-screenshots/)
+[Blog from Black Hills instructions and information for building a lab environment](https://www.infosec.com/how-to-deploy-windows-optics-commands-downloads-instructions-and-screenshots/)
 
 SANS webcast: [Building an Enterprise Grade Home Lab](https://youtu.be/jnotvkoUF9U)
 
@@ -42,8 +42,13 @@ part 1:  https://redsiege.com/blog/2022/06/simpledomainp1/
 part 2:  https://redsiege.com/blog/2022/06/simpledomainp2/
 If I'm slow putting up 3 and 4 which will probably come out in July 2022, just modify the above urls or google
 
+From [@secopsgeek](https://twitter.com/Secopsgeek), how to [ElasticXDR 8.2.0](https://youtu.be/NLdPE4erV5c) Gitbook Build Overview
+
 ## Automated lab creation tools
 
+GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
+[Main page](https://github.com/Orange-Cyberdefense/GOAD)
+[Tools to help deploy GOAD](https://github.com/lkarlslund/deploy-goad)
 
 [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab)
 is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc. 
@@ -93,6 +98,22 @@ https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool
 
 From [@ajpc500](https://twitter.com/ajpc500), a quick and dirty [PowerShell script](https://gist.github.com/ajpc500/3a86ba1741d4868b69be5ce3a142d527) to install Sysmon (SwiftOnSecurity config), SilkService and Winlogbeat, and forward the logs on to HELK. Might be useful for those looking to quickly configure endpoint logs in a lab environment
 
+[Laurel](https://github.com/threathunters-io/laurel) turns Linux auditd logs into JSON format for easier ingestion into SIEM
+
+
+## Attacker Simulation / Emulation
+
+Atomic Red Team
+
+- [Homepage](https://redcanary.com/atomic-red-team/)
+- [Explore Atomic Red Team](https://atomicredteam.io/)
+- From Swimlane, [Automating Red Canary's atomic-red team](https://www.atomic-operator.com/)
+
+Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner. Uses AWS and Sumo Logic
+- [Main Page](https://github.com/DataDog/stratus-red-team)
+- [Extra Documentation](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection)
+
+Florian Roth's [@cyb3rops](https://twitter.com/cyb3rops) company released a [ransomware emulator](https://github.com/NextronSystems/ransomware-simulator]
 
 ## Free/demo software:
 
@@ -102,19 +123,15 @@ Rapid7 [InsightIDR](https://www.rapid7.com/try/insightidr/) Free Trial (SIEM)
 
 Other resources for free/cheap software referenced in the SANS webcasts:   https://github.com/aboutsecurity/blueteam_homelabs
 
-Direct link to download free [Microsoft Hypber-V](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019) server    
+Direct link to download free [Microsoft Hypber-V](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019) server   
 
-## Attacker Simulation / Emulation
+Splunk Free XX/day, 50 GB/day during trial. Or apply for a developer license. Or use a limited Splunk Cloud free license
 
-Atomic Red Team
+ELK  Open source is free.
 
-- [Homepage](https://redcanary.com/atomic-red-team/)
-- [Explore Atomic Red Team](https://atomicredteam.io/)
-- [Automating Red Canary's atomic-red team](https://www.atomic-operator.com/.6.0/)
+Sumo Logic  Free account for 1 GB/day
 
 ## Generating data for you lab
-
-https://gist.github.com/braimee/edf91f87ee95b48c803895614a0ec57a
 
 Cyb3rWard0g and Cyb3rPandaH have a great site with [malicious data sets](https://securitydatasets.com/introduction.html)
     
@@ -124,7 +141,9 @@ A github repository by @ubeeri to [generate fake user activity](https://github.c
 
 A quick and dirty HTTP/S "organic" [traffic generator](https://github.com/philhagen/web-traffic-generator)
 
-Swimlane has open sourced a [tool](https://github.com/swimlane/soc-faker) to generate a lot of different types of data:
+Swimlane has open sourced a [tool](https://github.com/swimlane/soc-faker) to generate a lot of different types of data
+
+[ntTraceControl](https://github.com/airbus-cert/ntTraceControl) is a set of Powershell commands to forge/generate Windows logs
 
 Here are some other ways to generate data to be collected by your SIEM
 
@@ -142,7 +161,8 @@ Create network traffic to stress test network devices:  https://www.candelatech.
 ## Other resources
 
 Podcast/Videos on various topics for building stuff for your lab:
-[Homepage](https://thehomelab.show/) and [Videos](https://youtube.com/playlist?list=PLjGQNuuUzvmtAzqgH7PVvnF_v0X9ZKMeA)
+- [Homepage](https://thehomelab.show/)
+- [Videos](https://youtube.com/playlist?list=PLjGQNuuUzvmtAzqgH7PVvnF_v0X9ZKMeA)
 
 Justin Henderson from SANS SEC555 has a couple [free labs](https://t.co/pLipGouXDj)
 
@@ -151,8 +171,8 @@ User: student Password: sec555
 And of course there is at least one [homelab reddit](https://www.reddit.com/r/homelab/)
 
 Here is a whole thread on labs.  Including networking, not just security
-[Original](https://twitter.com/JBizzle703/status/1433953668148219906?s=20)
-[Threadripped](https://threadreaderapp.com/thread/1433953668148219906.html)
+- [Original](https://twitter.com/JBizzle703/status/1433953668148219906?s=20)
+- [Threadripped](https://threadreaderapp.com/thread/1433953668148219906.html)
 
 Some great resources from Jeff McJunkin
 [kickasslab](https://bit.ly/kickasslab) and [video](https://www.youtube.com/watch?v=KogdkuEbfwc)

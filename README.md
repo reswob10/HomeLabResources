@@ -15,6 +15,9 @@ Black Hills Information Security webcast
 
 [Blog from Black Hills instructions and information for building a lab environment](https://www.infosec.com/how-to-deploy-windows-optics-commands-downloads-instructions-and-screenshots/)
 
+[How to Build a Cloud Hacking Lab](https://youtu.be/4s_3oNwqImo) by [@dafthack](https://twitter.com/dafthack)
+
+
 SANS webcast: [Building an Enterprise Grade Home Lab](https://youtu.be/jnotvkoUF9U)
 
 SANS webcast: [Extending Your Home Lab to include Cloud](https://youtu.be/j69DRB4WGeY)

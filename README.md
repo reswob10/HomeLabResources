@@ -86,6 +86,8 @@ From [@HBRH_314](https://twitter.com/HBRH_314), a [video of Malware Analysis](ht
 
 Video from [@watsoninfosec](https://twitter.com/watsoninfosec) on his [home lab build](https://youtu.be/-1kwszraub0)
 
+A (very short) introduction to [kne](https://blog.itsalwaysthe.network/posts/kubernetes-based-network-emulation/) from [@supertylerc](https://twitter.com/supertylerc), a project from Google that lets you run virtual network topologies in Kubernetes. 
+
 ## Tools and configurations to build your home lab
 
 Filtering DNS and HTTPS Traffic on pfSense
@@ -128,7 +130,7 @@ Other resources for free/cheap software referenced in the SANS webcasts:   https
 
 Direct link to download free [Microsoft Hypber-V](https://www.microsoft.com/en-us/evalcenter/evaluate-hyper-v-server-2019) server   
 
-Splunk Free XX/day, 50 GB/day during trial. Or apply for a developer license. Or use a limited Splunk Cloud free license
+Splunk Free 500MB/day, 50 GB/day during trial. Or apply for a developer license. Or use a limited Splunk Cloud free license
 
 ELK  Open source is free.
 
@@ -137,6 +139,8 @@ Sumo Logic  Free account for 1 GB/day
 ## Generating data for you lab
 
 Cyb3rWard0g and Cyb3rPandaH have a great site with [malicious data sets](https://securitydatasets.com/introduction.html)
+
+Sample MS Windows [logs in evtx format](https://github.com/NextronSystems/evtx-baseline) from Nextron Systems 
     
 A github repository by @ubeeri to [generate fake user activity](https://github.com/ubeeri/Invoke-UserSimulator)
 

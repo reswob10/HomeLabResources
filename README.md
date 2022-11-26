@@ -37,11 +37,14 @@ Justin Henderson, the author of SANS SEC555, SEC530 and other courses is doing a
 A guide on building a DIY SIEM at home by James Smith @DFIRmadness
 https://dfirmadness.com/building-a-siem-at-home/
 
+Here is the beginning of a [series of blogs](https://facyber.me/posts/blue-team-lab-guide-part-1/) for building a Blue Team home lab
+
 Another set of blogs for building a home lab.  This one is from Red Siege and will be more offensive focused:
 - Part 1:  https://redsiege.com/blog/2022/06/simpledomainp1/
 - Part 2:  https://redsiege.com/blog/2022/06/simpledomainp2/
+- Part 3:  https://redsiege.com/blog/2022/06/simpledomainp3/
 
-If I'm slow putting up 3 and 4 which will probably come out in July 2022, just modify the above urls or google
+If I'm slow putting up 4 which will probably come out in after November 2022, just modify the above urls or google
 
 From [@secopsgeek](https://twitter.com/Secopsgeek), how to [ElasticXDR 8.2.0](https://youtu.be/NLdPE4erV5c) Gitbook Build Overview
 
@@ -89,6 +92,8 @@ Video from [@watsoninfosec](https://twitter.com/watsoninfosec) on his [home lab 
 
 A (very short) introduction to [kne](https://blog.itsalwaysthe.network/posts/kubernetes-based-network-emulation/) from [@supertylerc](https://twitter.com/supertylerc), a project from Google that lets you run virtual network topologies in Kubernetes. 
 
+This repo from Black Hills contains guidance on setting up [event logging](https://github.com/blackhillsinfosec/EventLogging).
+
 ## Tools and configurations to build your home lab
 
 Filtering DNS and HTTPS Traffic on pfSense
@@ -99,6 +104,8 @@ https://github.com/davidprowe/BadBlood
 
 Powershell script to create AD Domain Controller and Workstation     
 https://browninfosecguy.com/Active-Directory-Lab-Setup-Tool
+
+From Wazehell, Create a [vulnerable active directory](https://github.com/WazeHell/vulnerable-AD) that's allowing you to test most of active directory attacks in local lab
 
 From [@ajpc500](https://twitter.com/ajpc500), a quick and dirty [PowerShell script](https://gist.github.com/ajpc500/3a86ba1741d4868b69be5ce3a142d527) to install Sysmon (SwiftOnSecurity config), SilkService and Winlogbeat, and forward the logs on to HELK. Might be useful for those looking to quickly configure endpoint logs in a lab environment
 
@@ -136,6 +143,10 @@ Splunk Free 500MB/day, 50 GB/day during trial. Or apply for a developer license.
 ELK  Open source is free.
 
 Sumo Logic  Free account for 1 GB/day
+
+Panther is a modern SIEM built for security operations at scale. Code is [here](https://github.com/panther-labs/panther-analysis)
+
+[Tidal](https://www.tidalcyber.com/blog/announcing-general-availability-of-the-tidal-community-edition) is a threat intel platform
 
 ## Generating data for you lab
 

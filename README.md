@@ -1,6 +1,9 @@
 # HomeLabResources
 List of resources for buiding a home lab
 
+Shout out to Omar Santos (@santosomar) who has 1000s of resources here
+- https://github.com/The-Art-of-Hacking/h4cker
+
 ## Blogs and Videos that walk through setting up labs
 Pay what you want book
 Building Virtual Machine SECOND EDITION! by Tony Robinson 
@@ -24,6 +27,8 @@ SANS webcast: [Extending Your Home Lab to include Cloud](https://youtu.be/j69DRB
 
 SANS webcast: [Building Your Own Super Duper Home Lab](https://youtu.be/uzqwoufhwyk)
 
+SANS webcast: [Building an Azure Pentest Lab for Red Teams](https://www.sans.org/webcasts/sans-workshop-building-azure-pentest-lab-red-teams/)
+
 HAK5 video: [Building a Home Lab Virtual Server Quick and Dirty - Hak5 1819](https://youtu.be/9SpQ1fRQAto)
 
 Videos by Tyrone E. Wilson
@@ -46,8 +51,7 @@ Another set of blogs for building a home lab.  This one is from Red Siege and wi
 - Part 1:  https://redsiege.com/blog/2022/06/simpledomainp1/
 - Part 2:  https://redsiege.com/blog/2022/06/simpledomainp2/
 - Part 3:  https://redsiege.com/blog/2022/06/simpledomainp3/
-
-If I'm slow putting up 4 which will probably come out in after November 2022, just modify the above urls or google
+- Part 4:  https://redsiege.com/blog/2022/06/creating-a-simple-windows-domain-for-offensive-testing-part-4/
 
 From [@secopsgeek](https://twitter.com/Secopsgeek), how to [ElasticXDR 8.2.0](https://youtu.be/NLdPE4erV5c) Gitbook Build Overview
 
@@ -98,6 +102,11 @@ A (very short) introduction to [kne](https://blog.itsalwaysthe.network/posts/kub
 This repo from Black Hills contains guidance on setting up [event logging](https://github.com/blackhillsinfosec/EventLogging).
 
 ## Tools and configurations to build your home lab
+
+Creating a vulnerable Active Directory to test attack tools and detections
+https://github.com/WazeHell/vulnerable-AD
+Here is the video explaining it's use @steelcon 2022 by @myexploit2600 and @ZephrFish (mature language)
+https://youtu.be/8VvLJfAFGcA
 
 Filtering DNS and HTTPS Traffic on pfSense
 https://docs.diladele.com/tutorials/filtering_https_traffic_squid_pfsense/index.html
@@ -179,6 +188,9 @@ Create network traffic to stress test network devices:  https://www.candelatech.
 
 
 ## Other resources
+
+Installing Let's Encrypt on your PFSense firewall
+- https://gainanov.pro/eng-blog/linux/installing-lets-encrypt-pfsense/
 
 Podcast/Videos on various topics for building stuff for your lab:
 - [Homepage](https://thehomelab.show/)

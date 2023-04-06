@@ -4,6 +4,10 @@ List of resources for buiding a home lab
 Shout out to Omar Santos (@santosomar) who has 1000s of resources here
 - https://github.com/The-Art-of-Hacking/h4cker
 
+Another great collection of tools and such
+- https://github.com/fabacab/awesome-cybersecurity-blueteam
+
+
 ## Blogs and Videos that walk through setting up labs
 Pay what you want book
 Building Virtual Machine SECOND EDITION! by Tony Robinson 
@@ -55,6 +59,9 @@ Another set of blogs for building a home lab.  This one is from Red Siege and wi
 
 From [@secopsgeek](https://twitter.com/Secopsgeek), how to [ElasticXDR 8.2.0](https://youtu.be/NLdPE4erV5c) Gitbook Build Overview
 
+How to Build a Cloud Hacking Lab by Beau Bullock
+- https://www.youtube.com/watch?v=4s_3oNwqImo
+
 ## Automated lab creation tools
 
 GOAD is a pentest active directory LAB project. The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
@@ -73,11 +80,20 @@ Cyb3rWard0g has [Microsoft-Sentinel2Go](https://github.com/OTRF/Microsoft-Sentin
 
 [MS Defender Evaluation lab](https://techcommunity.microsoft.com/t5/microsoft-defender-for-endpoint/evaluation-lab-expanded-os-support-amp-atomic-red-team/ba-p/2993927) which includes Red Canary's atomic red team.
 
+Microsoft Simuland complete lab environment with lessons
+- https://simulandlabs.com/README.html
+
+Automated build of Azure attack and detect lab by Roxana Kovaci (@RoxanaKovaci)
+- https://github.com/mandiant/Azure_Workshop
+
 ## How to's and Building Home Lab references
 
 The [UK National Cyber Security Center](https://github.com/ukncsc/lme) has a great project for small/home offices to help them get started with logging.  This can be used for home labs as well. Not a full SIEM solution, but a start.
 
 Offensive Security has a [great blog](https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/)  with lots of details and links with a video [here](https://youtu.be/Ed1ujM3xWNg)
+
+Monitoring your Proxmox environment with Security Onion by @null@puddle.town (on Mastodon)
+- https://blog.puddle.town/proxmox-span/
 
 Building ELK SIEM in in two videos, [part 1](https://youtu.be/HI072Rkthoc) and [part 2](https://youtu.be/mIXf2k9BQ3k)
 
@@ -93,6 +109,8 @@ Series of videos for [building a home lab](https://youtube.com/playlist?list=PLD
 
 Here is a [video](https://www.youtube.com/watch?v=X3TyFji-jEw) from Black Hat Trainings in 2020
 
+Video https://youtu.be/yDWug2zhjyA
+
 From [@HBRH_314](https://twitter.com/HBRH_314), a [video of Malware Analysis](https://youtu.be/whApbC5OvOs) Fundamentals to create an analysis environment for safe inspection of malware utilizing Remnux and FLARE VM.
 
 Video from [@watsoninfosec](https://twitter.com/watsoninfosec) on his [home lab build](https://youtu.be/-1kwszraub0)
@@ -100,6 +118,17 @@ Video from [@watsoninfosec](https://twitter.com/watsoninfosec) on his [home lab 
 A (very short) introduction to [kne](https://blog.itsalwaysthe.network/posts/kubernetes-based-network-emulation/) from [@supertylerc](https://twitter.com/supertylerc), a project from Google that lets you run virtual network topologies in Kubernetes. 
 
 This repo from Black Hills contains guidance on setting up [event logging](https://github.com/blackhillsinfosec/EventLogging).
+
+Building a SOC lab at home
+- https://app.letsdefend.io/training/lessons/building-a-soc-lab-at-home
+
+Buidling an infosec home lab from scratch
+- https://youtube.com/playlist?list=PLyJqGMYm0vnP9sgEGRxmhUKFQVVz68Cbh
+This guy has a TON of videos that can help with your home lab
+- https://www.youtube.com/@ITSecurityLabs/videos
+
+ Blog series for building a home lab. First post here
+ - https://facyber.me/posts/blue-team-lab-guide-part-1/
 
 ## Tools and configurations to build your home lab
 
@@ -186,6 +215,9 @@ https://github.com/tdunning/log-synth
 
 Create network traffic to stress test network devices:  https://www.candelatech.com/downloads.php
 
+Scripts to configure windows logging at different levels
+- https://github.com/blackhillsinfosec/EventLogging
+
 
 ## Other resources
 
@@ -212,3 +244,19 @@ Some great resources from Jeff McJunkin
 A Guide to log formats from [Greylog](https://www.graylog.org/post/log-formats-a-complete-guide)
 
 Attacking AD [cheat sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
+
+Blog series by [Josh Wright](https://twitter.com/joswr1ght) on working with event logs in powershell
+- https://www.sans.org/blog/working-with-event-log-part-1/
+- https://www.sans.org/blog/working-with-event-log-part-2-threat-hunting-with-event-logs/
+- https://www.sans.org/blog/working-with-the-event-log-part-3-accessing-message-elements
+- https://www.sans.org/blog/working-with-the-event-log-part-4-tweaking-event-log-settings/
+
+## Other Platforms for learning
+
+Blue Team Labs as free and paid plans
+- https://blueteamlabs.online/
+
+As does Cyberdefenders
+- https://cyberdefenders.org/
+- 
+

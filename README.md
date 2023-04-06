@@ -67,6 +67,9 @@ GOAD is a pentest active directory LAB project. The purpose of this lab is to gi
 - [Tools to help deploy GOAD](https://github.com/lkarlslund/deploy-goad)
 - [Walk Through](https://mayfly277.github.io/)
 
+Alternative to GOAD by @MJHallenbeck
+- https://github.com/Marshall-Hallenbeck/red_team_attack_lab
+
 [AutomatedLab](https://github.com/AutomatedLab/AutomatedLab)
 is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2019, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc. 
 

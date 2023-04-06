@@ -189,8 +189,6 @@ Panther is a modern SIEM built for security operations at scale. Code is [here](
 
 [Tidal](https://www.tidalcyber.com/blog/announcing-general-availability-of-the-tidal-community-edition) is a threat intel platform
 
-@supertylerc put out a blog post on [Managing Virtual Network Labs with KNE](https://blog.itsalwaysthe.network/posts/kubernetes-based-network-emulation/)
-
 ## Generating data for you lab
 
 Cyb3rWard0g and Cyb3rPandaH have a great site with [malicious data sets](https://securitydatasets.com/introduction.html)

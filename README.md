@@ -59,8 +59,6 @@ Another set of blogs for building a home lab.  This one is from Red Siege and wi
 
 From [@secopsgeek](https://twitter.com/Secopsgeek), how to [ElasticXDR 8.2.0](https://youtu.be/NLdPE4erV5c) Gitbook Build Overview
 
-How to Build a Cloud Hacking Lab by Beau Bullock
-- https://www.youtube.com/watch?v=4s_3oNwqImo
 
 ## Automated lab creation tools
 

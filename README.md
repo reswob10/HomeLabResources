@@ -163,9 +163,11 @@ Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offe
 - [Main Page](https://github.com/DataDog/stratus-red-team)
 - [Extra Documentation](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection)
 
-Florian Roth's [@cyb3rops](https://twitter.com/cyb3rops) company released a [ransomware emulator](https://github.com/NextronSystems/ransomware-simulator]
+Florian Roth's [@cyb3rops](https://twitter.com/cyb3rops) company released a [ransomware emulator](https://github.com/NextronSystems/ransomware-simulator)
 
 Black Hills has [tools](https://www.activecountermeasures.com/threat-simulation-overview-and-setup/) to generate suspicious activity
+
+Swimlane released [Atomic-Operator](https://www.atomic-operator.com/0.8.5/)
 
 ## Free/demo software:
 
@@ -186,6 +188,8 @@ Sumo Logic  Free account for 1 GB/day
 Panther is a modern SIEM built for security operations at scale. Code is [here](https://github.com/panther-labs/panther-analysis)
 
 [Tidal](https://www.tidalcyber.com/blog/announcing-general-availability-of-the-tidal-community-edition) is a threat intel platform
+
+@supertylerc put out a blog post on [Managing Virtual Network Labs with KNE](https://blog.itsalwaysthe.network/posts/kubernetes-based-network-emulation/)
 
 ## Generating data for you lab
 
@@ -215,6 +219,9 @@ Create network traffic to stress test network devices:  https://www.candelatech.
 
 Scripts to configure windows logging at different levels
 - https://github.com/blackhillsinfosec/EventLogging
+
+Here are some good MS logs to baseline your environment
+- https://github.com/NextronSystems/evtx-baseline
 
 
 ## Other resources

@@ -87,6 +87,8 @@ Microsoft Simuland complete lab environment with lessons
 Automated build of Azure attack and detect lab by Roxana Kovaci (@RoxanaKovaci)
 - https://github.com/mandiant/Azure_Workshop
 
+[Websploit](https://websploit.org/) by @santosomar
+
 ## How to's and Building Home Lab references
 
 The [UK National Cyber Security Center](https://github.com/ukncsc/lme) has a great project for small/home offices to help them get started with logging.  This can be used for home labs as well. Not a full SIEM solution, but a start.

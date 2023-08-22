@@ -168,6 +168,8 @@ Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offe
 - [Main Page](https://github.com/DataDog/stratus-red-team)
 - [Extra Documentation](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection)
 
+[Caldera](https://caldera.mitre.org/) from MITRE
+
 Florian Roth's [@cyb3rops](https://twitter.com/cyb3rops) company released a [ransomware emulator](https://github.com/NextronSystems/ransomware-simulator)
 
 Black Hills has [tools](https://www.activecountermeasures.com/threat-simulation-overview-and-setup/) to generate suspicious activity

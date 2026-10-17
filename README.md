@@ -14,8 +14,6 @@ Building Virtual Machine SECOND EDITION! by Tony Robinson
 Learn everything there is to know about building and maintaining your own home or workplace virtual lab environment on the most popular hypervisors today!
 https://leanpub.com/avatar2
 
-Great run through of building a lab influenced by Tony above.  Lots of links and suggestions and lessons learned.
-https://www.netsecfocus.com/home/lab/2020/09/21/Tjnulls_guide_to_building_a_Home_Lab.html
 
 [How to Build a Home Lab](https://www.youtube.com/watch?v=_Ih_wjHafrM)
 Black Hills Information Security webcast
@@ -41,8 +39,6 @@ Videos by Tyrone E. Wilson
 
 [Hands-On Learning: How and Why You Should Build a Home Lab](https://www.youtube.com/watch?v=CL2Ng191KQE)
 
-Great instructions for building ELK and Wazuh home lab:  
-https://github.com/watsoninfosec/ELK-SIEM
 
 Justin Henderson, the author of SANS SEC555, SEC530 and other courses is doing a series on [building a home lab](https://youtube.com/playlist?list=PLIQlcXRut9IPF8cJSSf0-BsoFy_1SOGYQ)
 
@@ -93,7 +89,7 @@ Automated build of Azure attack and detect lab by Roxana Kovaci (@RoxanaKovaci)
 
 The [UK National Cyber Security Center](https://github.com/ukncsc/lme) has a great project for small/home offices to help them get started with logging.  This can be used for home labs as well. Not a full SIEM solution, but a start.
 
-Offensive Security has a [great blog](https://www.offensive-security.com/offsec/tjnulls-guide-to-building-a-home-lab/)  with lots of details and links with a video [here](https://youtu.be/Ed1ujM3xWNg)
+Offensive Security has a great blog with lots of details and links with a video [here](https://youtu.be/Ed1ujM3xWNg)
 
 Monitoring your Proxmox environment with Security Onion by @null@puddle.town (on Mastodon)
 - https://blog.puddle.town/proxmox-span/
@@ -118,7 +114,6 @@ From [@HBRH_314](https://twitter.com/HBRH_314), a [video of Malware Analysis](ht
 
 Video from [@watsoninfosec](https://twitter.com/watsoninfosec) on his [home lab build](https://youtu.be/-1kwszraub0)
 
-A (very short) introduction to [kne](https://blog.itsalwaysthe.network/posts/kubernetes-based-network-emulation/) from [@supertylerc](https://twitter.com/supertylerc), a project from Google that lets you run virtual network topologies in Kubernetes. 
 
 This repo from Black Hills contains guidance on setting up [event logging](https://github.com/blackhillsinfosec/EventLogging).
 
@@ -140,8 +135,6 @@ https://github.com/WazeHell/vulnerable-AD
 Here is the video explaining it's use @steelcon 2022 by @myexploit2600 and @ZephrFish (mature language)
 https://youtu.be/8VvLJfAFGcA
 
-Filtering DNS and HTTPS Traffic on pfSense
-https://docs.diladele.com/tutorials/filtering_https_traffic_squid_pfsense/index.html
 
 BadBlood - BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects:  
 https://github.com/davidprowe/BadBlood
